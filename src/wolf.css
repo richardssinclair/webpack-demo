@@ -1,0 +1,5 @@
+/* in webpack.config, added this Regex to acceps SCSS and CSS files.. 'test: /\.(sc|c)ss$/i,' */
+
+body {
+    font-size: 18px;
+}
